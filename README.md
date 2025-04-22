@@ -1,4 +1,4 @@
-# BikeShare
+# SwiftUI-Compose-BikeShare
 
 ![kotlin-version](https://img.shields.io/badge/kotlin-2.1.0-blue?logo=kotlin)
 
